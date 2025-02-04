@@ -1,0 +1,7 @@
+olds/
+middlewares/
+.idea/
+*.pyc
+.env
+wxSet.json
+olib_database.py

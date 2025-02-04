@@ -1,0 +1,9 @@
+{
+  "Versions":[
+    {"version":"2.0.0","forcedUpdate":false},
+    {"version":"2.0.1","forcedUpdate":false},
+    {"version":"2.0.2","forcedUpdate":true}
+  ],
+  "Notice":{"title":"重要更新","content":"本次更新了......","show":true},
+  "UpdateUrl":"https://dquyl9k1r5u.feishu.cn/docx/HdPzd8HOwoWrzRxxdM3ckoYJn6c"
+}
